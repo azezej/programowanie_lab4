@@ -65,13 +65,13 @@ namespace ConsoleApp3
         {
             // Lista ubrań
             List<string> clothes = new List<string>
-        {
-            "Koszulka",
-            "Spodnie dresowe",
-            "Skarpetki",
-            "Bluza z kapturem",
-            "Czapka zimowa"
-        };
+            {
+                "Koszulka",
+                "Spodnie dresowe",
+                "Skarpetki",
+                "Bluza z kapturem",
+                "Czapka zimowa"
+            };
 
             ManualWasher manualWasher = new ManualWasher();
             IWasher manualWasherAdapter = new ManualWasherAdapter(manualWasher);
