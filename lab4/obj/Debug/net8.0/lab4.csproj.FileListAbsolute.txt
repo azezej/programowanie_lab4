@@ -1,0 +1,14 @@
+/home/azej/lab4/lab4/bin/Debug/net8.0/lab4
+/home/azej/lab4/lab4/bin/Debug/net8.0/lab4.deps.json
+/home/azej/lab4/lab4/bin/Debug/net8.0/lab4.runtimeconfig.json
+/home/azej/lab4/lab4/bin/Debug/net8.0/lab4.dll
+/home/azej/lab4/lab4/bin/Debug/net8.0/lab4.pdb
+/home/azej/lab4/lab4/obj/Debug/net8.0/lab4.GeneratedMSBuildEditorConfig.editorconfig
+/home/azej/lab4/lab4/obj/Debug/net8.0/lab4.AssemblyInfoInputs.cache
+/home/azej/lab4/lab4/obj/Debug/net8.0/lab4.AssemblyInfo.cs
+/home/azej/lab4/lab4/obj/Debug/net8.0/lab4.csproj.CoreCompileInputs.cache
+/home/azej/lab4/lab4/obj/Debug/net8.0/lab4.dll
+/home/azej/lab4/lab4/obj/Debug/net8.0/refint/lab4.dll
+/home/azej/lab4/lab4/obj/Debug/net8.0/lab4.pdb
+/home/azej/lab4/lab4/obj/Debug/net8.0/lab4.genruntimeconfig.cache
+/home/azej/lab4/lab4/obj/Debug/net8.0/ref/lab4.dll
