@@ -6,6 +6,8 @@
 *.user
 *.sln.docstates
 
+ConsoleApp1/operacje.txt 
+
 # Build results
 
 [Dd]ebug/
